@@ -80,21 +80,17 @@
 
 ---
 
+## 🔝 Featured Projects:
+
+[![weather-agent-microservice](https://github-readme-stats.vercel.app/api/pin/?username=mayankgupta1008&repo=weather-agent-microservice&theme=dark&hide_border=false)](https://github.com/mayankgupta1008/weather-agent-microservice)
+[![joblensai](https://github-readme-stats.vercel.app/api/pin/?username=mayankgupta1008&repo=joblensai&theme=dark&hide_border=false)](https://github.com/mayankgupta1008/joblensai)
+
+---
+
 ## ⚡ Recent GitHub Activity:
 <!--START_SECTION:activity-->
 <!-- Auto-updated every 30 minutes via GitHub Actions -->
 <!--END_SECTION:activity-->
-
----
-
-## 🚀 Featured Projects:
-
-| Project | Stack | Links |
-|---------|-------|-------|
-| **WeatherMind** — Enterprise Weather SaaS | MongoDB, Express, React, Node, Docker, K8s, NGINX | [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/mayankgupta1008/weather-agent-microservice) |
-| **JobLens AI** — Resume Optimization SaaS | Next.js, MongoDB, Clerk, Tailwind, OpenRouter API | [![Live](https://img.shields.io/badge/Live-green?style=flat&logo=vercel)](https://joblensai.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/mayankgupta1008/joblensai) |
-| **Blog Burst** — AI Blogging Platform | MERN, Socket.io, OpenAI API, JWT | [![Live](https://img.shields.io/badge/Live-green?style=flat&logo=render)](https://blogburst.onrender.com) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/mayankgupta1008/BlogBurst) |
-| **Chatty** — Real-Time Chat App | React, Node, Socket.io, MongoDB, Cloudinary | [![Live](https://img.shields.io/badge/Live-green?style=flat&logo=render)](https://chatty-5548.onrender.com) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/mayankgupta1008/Chatty_Real_Time_Chat_App) |
 
 ---
 
