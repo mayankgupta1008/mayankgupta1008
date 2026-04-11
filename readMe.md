@@ -82,8 +82,12 @@
 
 ## 🔝 Featured Projects:
 
-[![weather-agent-microservice](https://github-readme-stats.vercel.app/api/pin/?username=mayankgupta1008&repo=weather-agent-microservice&theme=dark&hide_border=false)](https://github.com/mayankgupta1008/weather-agent-microservice)
-[![joblensai](https://github-readme-stats.vercel.app/api/pin/?username=mayankgupta1008&repo=joblensai&theme=dark&hide_border=false)](https://github.com/mayankgupta1008/joblensai)
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🌦️ WeatherMind](https://github.com/mayankgupta1008/weather-agent-microservice) | Enterprise-grade Weather SaaS — microservices, BullMQ, K8s, NGINX | ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?style=flat&logo=kubernetes&logoColor=white) |
+| [💼 JobLens AI](https://github.com/mayankgupta1008/joblensai) | Resume optimization SaaS — Next.js, AI-powered, LinkedIn job ingestion | ![Next JS](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) ![OpenAI](https://img.shields.io/badge/-OpenRouter-412991?style=flat&logo=openai&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) |
+| [📝 Blog Burst](https://github.com/mayankgupta1008/BlogBurst) | AI-powered blogging platform — Socket.io, OpenAI, JWT auth | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![NodeJS](https://img.shields.io/badge/-Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) |
+| [💬 Chatty](https://github.com/mayankgupta1008/Chatty_Real_Time_Chat_App) | Real-time chat app — Socket.io, JWT, Cloudinary, Zustand | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io) ![NodeJS](https://img.shields.io/badge/-Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) |
 
 ---
 
